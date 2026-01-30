@@ -1,0 +1,4 @@
+101,Shubhankar Paria,shubhankar@gmail.com,B.Tech CSE
+102,John Doe,john.doe@example.com,Computer Science
+103,Jane Smith,jane.smith@email.com,Information Technology
+104,Amit Das,amit.das@brainware.edu,Cyber Security
